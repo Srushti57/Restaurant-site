@@ -1,0 +1,116 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper{
+    /* border: 1px solid black; */
+    padding: 1%;
+    margin: 0 auto;
+    width: 80%;
+}
+.clear-fix{
+    float: none;
+    clear: both;
+}
+a{
+    text-decoration: none;
+    color: orange;
+}
+a:hover{
+    color: orangered;
+}
+.text-center{
+    text-align: center;
+}
+.btn-primary{
+    padding: 1%;
+    background-color: rgb(119, 119, 218);
+    color: white;
+}
+.btn-secondary{
+    padding: 1%;
+    background-color:rgb(32, 145, 32);
+    color: white;
+}
+.btn-danger{
+    padding: 1%;
+    background-color: rgb(236, 55, 55);
+    color: white;
+}
+.success{
+    color: rgb(68, 223, 68);
+}
+.fail{
+    color: red
+}
+.error{
+    color: red
+}
+/* CSS for table */
+.tbl_full{
+    width: 100%;
+}
+.tbl-30{
+    width: 30%;
+}
+table tr th{
+    border-bottom: 1px solid black;
+    padding: 1%;
+    text-align: left;
+}
+table tr td{
+    padding: 1%;
+}
+
+/* Css for menu*/
+.menu{
+    border-bottom: 1px solid grey;
+}
+.menu ul{
+    list-style-type: none;
+    
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+/* Css for main content*/
+.main-content{
+    background-color: rgb(247, 241, 241);
+    padding: 3% 0;
+}
+.col-4{
+    /* border: 1px solid black; */
+    width: 18%;
+    background-color: white;
+    float: left;
+    padding: 2%;
+    margin: 1%;
+}
+p{
+    font-weight: bold;
+    font-size: 2rem;
+    padding-bottom: 2%;
+}
+
+/* css for footer*/
+.footer{
+    background-color: rgb(63, 50, 50);
+    color: white;
+}
+
+/* CSS for login */
+.login{
+    border: 1px solid grey;
+    width: 30%;
+    margin: 10% auto;
+    font-size: small;
+    font-weight: lighter;
+    padding: 2% 5%;
+    background-color: rgb(235, 222, 222);
+}

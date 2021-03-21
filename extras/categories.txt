@@ -1,0 +1,64 @@
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/masala1.jpg" height="380" alt="dosa" class="img-responsive img-radius">
+                <h3 class="float-text">Dosa</h3>
+            </div>
+            </a>
+
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/appam.jpg" height="380" alt="appam" class="img-responsive img-radius">
+                <h3 class="float-text">Appam</h3>
+            </div>
+            <div class="clear-fix"></div>
+            </a>
+
+
+            <div class="container">
+            <!-- <h2 class="text-center">Explore Food</h2> -->
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/idli1.jpg" height="380" alt="idli" class="img-responsive img-radius">
+                <h3 class="float-text">Idli</h3>
+            </div>
+            </a>
+
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/masala1.jpg" height="380" alt="dosa" class="img-responsive img-radius">
+                <h3 class="float-text">Dosa</h3>
+            </div>
+            </a>
+
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/appam.jpg" height="380" alt="appam" class="img-responsive img-radius">
+                <h3 class="float-text">Appam</h3>
+            </div>
+            <div class="clear-fix"></div>
+            </a>
+        </div>
+
+        <div class="container">
+            <!-- <h2 class="text-center">Explore Food</h2> -->
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/idli1.jpg" height="380" alt="idli" class="img-responsive img-radius">
+                <h3 class="float-text">Idli</h3>
+            </div>
+            </a>
+
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/masala1.jpg" height="380" alt="dosa" class="img-responsive img-radius">
+                <h3 class="float-text">Dosa</h3>
+            </div>
+            </a>
+
+            <a href="#">
+            <div class="box-3 float-container" >
+                <img src="images/appam.jpg" height="380" alt="appam" class="img-responsive img-radius">
+                <h3 class="float-text">Appam</h3>
+            </div>
+            <div class="clear-fix"></div>
+            </a>
